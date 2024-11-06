@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PedroIan\\Documents\\GitHub\\BlazorAppTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D065F00-1064-460D-B99A-23D0A11D0AB1}|BlazorAppTest.csproj|c:\\users\\pedroian\\documents\\github\\blazorapptest\\components\\pages\\loadinganimation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D065F00-1064-460D-B99A-23D0A11D0AB1}|BlazorAppTest.csproj|solutionrelative:components\\pages\\loadinganimation.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D065F00-1064-460D-B99A-23D0A11D0AB1}|BlazorAppTest.csproj|c:\\users\\pedroian\\documents\\github\\blazorapptest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D065F00-1064-460D-B99A-23D0A11D0AB1}|BlazorAppTest.csproj|solutionrelative:components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\PedroIan\\Documents\\GitHub\\BlazorAppTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\PedroIan\\Documents\\GitHub\\BlazorAppTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:39:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoadingAnimation.razor",
+              "DocumentMoniker": "C:\\Users\\PedroIan\\Documents\\GitHub\\BlazorAppTest\\Components\\Pages\\LoadingAnimation.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\LoadingAnimation.razor",
+              "ToolTip": "C:\\Users\\PedroIan\\Documents\\GitHub\\BlazorAppTest\\Components\\Pages\\LoadingAnimation.razor",
+              "RelativeToolTip": "Components\\Pages\\LoadingAnimation.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T12:31:07.068Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
